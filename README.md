@@ -1,6 +1,6 @@
 # Java_lin
 
-This is a beginner java learning repository , for n00bs
+This is a beginner java learning repository , for reference
 
 How to run your java file :
 
@@ -8,4 +8,7 @@ How to run your java file :
 
 2.Browse to your working directory through cmd / terminal .
 
-3.First run the command javac filename.java This creates an executable class file .Now , run the program with java filename
+3.First run the command 
+javac filename.java 
+This creates an executable class file .Now , run the program with 
+java filename
