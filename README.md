@@ -12,3 +12,8 @@ How to run your java file :
 javac filename.java 
 This creates an executable class file .Now , run the program with 
 java filename
+
+# License
+
+	MIT
+Do whatever you want
